@@ -1,0 +1,21 @@
+body {
+	background: url(../img/swirl_pattern.png) repeat;
+	font-family: "Open Sans", sans-serif;
+	margin: 20px auto;
+}
+.container {
+	width: 960px;
+}
+h1 {
+	margin-top: 0;
+}
+.address-book {
+	background: #f9f9f9;
+	padding: 20px;
+	box-shadow: 1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+}
+td.buttons {
+	width: 1%;
+	padding: 7px 8px !important;
+	white-space: nowrap;
+}
